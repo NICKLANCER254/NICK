@@ -1,0 +1,17 @@
+C:\xampp\htdocs\wifi_billing_system
+│
+├── index.php
+├── dashboard.php
+├── connect.php
+├── billing.php
+├── logout.php
+│
+├── css/
+│   └── style.css
+│
+├── includes/
+│   ├── header.php
+│   └── footer.php
+│
+└── database/
+    └── wifi_billing.sql
